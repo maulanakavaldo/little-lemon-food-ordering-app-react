@@ -4,11 +4,11 @@
 
   <p><strong>Wireframe:</strong></p>
     <p align="center">
-      <img src="assets/wireframe.jpg" alt="wireframe">
+      <img src="assets/Wireframe.jpg" alt="wireframe">
     </p>
   <p><strong>LittleLemon:</strong></p>
     <p align="center">
-      <img src="assets/LittleLemon.png" alt="wireframe">
+      <img src="assets/LittleLemon.png" alt="Prototype">
     </p>
 
 
